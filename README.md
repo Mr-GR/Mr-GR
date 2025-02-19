@@ -5,9 +5,9 @@
 I'm a software engineer with experience building React frontends and working with Ruby backends. I’ve configured applications for clients, and work well with teams. Right now, I’m working on my Master’s in Data Science and focusing on learning everything I need to become a machine learning engineer. I’m especially interested in AI and ML, and my goal is to combine my full-stack skills with data science to move into ML engineering.
 My hobbies include working out, reading, and hiking
 
-Skills: ANDROID STUDIO | RUBY ON RAILS | SWIFT | JAVA | PYTHON
+Skills: RUBY | PYTHON | JAVASCRIPT | TYPESCRIPT
 
-- 🌱 I’m currently learning Software Engineering and Data Science 
+- 🌱 I’m currently learning Data Science 
 - ⚡ Fun fact: I am United States Marine Corps Vetern 
 
 
