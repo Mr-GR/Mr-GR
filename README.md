@@ -1,6 +1,5 @@
 ### 👋 Hi there, I'm Manuel Guevara Reyes — but you can call me Manny
 
-![Software Engineer Banner](https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=612x612&w=0&k=20&c=IJM5yVO0abXLq3VGlg-XmifzbMl5x4mMta-nqWde8ig=)
 
 💻 **Software Engineer | Aspiring Machine Learning Engineer | U.S. Marine Corps Veteran**
 
@@ -11,9 +10,9 @@ Currently, I’m pursuing my **Master’s in Data Science**, bridging my full-st
 ---
 
 ### 🧠 What I’m Focused On
-- 📚 Expanding my skills in **Data Science**, **Machine Learning**, and **AI Systems**
-- 🧩 Building full-stack projects that combine **frontend polish** with **backend power**
-- ☁️ Exploring **MLOps**, **cloud infrastructure**, and **AI deployment pipelines**
+- Expanding my skills in **Data Science**, **Machine Learning**, and **AI Systems**
+- Building full-stack projects that combine **frontend polish** with **backend power**
+- Exploring **MLOps**, **cloud infrastructure**, and **AI deployment pipelines**
 
 ---
 
@@ -30,15 +29,15 @@ Currently, I’m pursuing my **Master’s in Data Science**, bridging my full-st
 ---
 
 ### 🌎 A Bit About Me
-- 🎓 Pursuing **M.S. in Data Science**  
-- 💪 Former **United States Marine Corps Veteran**  
-- 📖 I love **working out, reading, and hiking** in my free time  
-- ⚡ Always curious — currently diving deeper into **AI systems and automation**
+- Pursuing **M.S. in Data Science**  
+- **United States Marine Corps Veteran**  
+- I love **working out, reading, and hiking** in my free time  
+- ⚡ Always curious currently diving deeper into **AI systems and automation**
 
 ---
 
 ### 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuelguevarareyes)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/manuel-guevara-reyes-652bb317b)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Mr-GR)
 
 > “Build. Learn. Iterate. Repeat.” 🚀
