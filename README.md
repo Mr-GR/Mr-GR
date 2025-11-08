@@ -1,15 +1,45 @@
-### Hi there 👋, my name is Manuel Guevara Reyes a.k.a. Manny
-#### 
-![I am GitHuI am an aspiring software engineer, attempting to become as proficient as possible in development](https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=612x612&w=0&k=20&c=IJM5yVO0abXLq3VGlg-XmifzbMl5x4mMta-nqWde8ig=)
+### 👋 Hi there, I'm Manuel Guevara Reyes — but you can call me Manny
 
-I'm a software engineer with experience building React frontends and working with Ruby backends. I’ve configured applications for clients, and work well with teams. Right now, I’m working on my Master’s in Data Science and focusing on learning everything I need to become a machine learning engineer. I’m especially interested in AI and ML, and my goal is to combine my full-stack skills with data science to move into ML engineering.
-My hobbies include working out, reading, and hiking
+![Software Engineer Banner](https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=612x612&w=0&k=20&c=IJM5yVO0abXLq3VGlg-XmifzbMl5x4mMta-nqWde8ig=)
 
-Skills: RUBY | PYTHON | JAVASCRIPT | TYPESCRIPT
+💻 **Software Engineer | Aspiring Machine Learning Engineer | U.S. Marine Corps Veteran**
 
-- 🌱 I’m currently learning Data Science 
-- ⚡ Fun fact: I am United States Marine Corps Vetern 
+I'm a passionate **software engineer** with hands-on experience building scalable **React frontends** and **Ruby on Rails backends**. I love working in collaborative environments and delivering clean, reliable solutions that make an impact.  
 
+Currently, I’m pursuing my **Master’s in Data Science**, bridging my full-stack development background with data-driven problem solving. My long-term goal is to become a **Machine Learning Engineer**, merging AI, backend systems, and cloud architecture to create intelligent, production-ready applications.
 
+---
 
+### 🧠 What I’m Focused On
+- 📚 Expanding my skills in **Data Science**, **Machine Learning**, and **AI Systems**
+- 🧩 Building full-stack projects that combine **frontend polish** with **backend power**
+- ☁️ Exploring **MLOps**, **cloud infrastructure**, and **AI deployment pipelines**
+
+---
+
+### 🧰 Tech Stack
+**Languages:**  
+`Ruby` • `Python` • `JavaScript` • `TypeScript`
+
+**Frameworks & Tools:**  
+`React` • `Ruby on Rails` • `FastAPI` • `Docker` • `PostgreSQL` • `Appwrite`
+
+**Currently Learning:**  
+`Machine Learning` • `Data Engineering` • `LLM Integrations`
+
+---
+
+### 🌎 A Bit About Me
+- 🎓 Pursuing **M.S. in Data Science**  
+- 💪 Former **United States Marine Corps Veteran**  
+- 📖 I love **working out, reading, and hiking** in my free time  
+- ⚡ Always curious — currently diving deeper into **AI systems and automation**
+
+---
+
+### 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuelguevarareyes)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Mr-GR)
+
+> “Build. Learn. Iterate. Repeat.” 🚀
 
