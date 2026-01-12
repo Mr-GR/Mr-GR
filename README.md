@@ -1,7 +1,7 @@
 ### Hi there, I'm Manuel Guevara Reyes but you can call me Manny
 
 
-💻 **Software Engineer | Aspiring Machine Learning Engineer **
+💻 **Software Engineer | Aspiring Machine Learning Enginee**
 
 I'm a passionate **software engineer** with hands-on experience building  **React frontends** and **Ruby backends**. I enjoy working in collaborative environments and delivering clean, reliable solutions that make an impact.  
 
