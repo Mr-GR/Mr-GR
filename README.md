@@ -1,40 +1,70 @@
-### Hi there, I'm Manuel Guevara Reyes but you can call me Manny
+### Hi, I'm Manuel Guevara Reyes — but you can call me Manny 👋
 
+💻 **Backend Software Engineer | AI Systems Builder | Data Curious**
 
-💻 **Software Engineer | Aspiring Machine Learning Engineer**
+I'm a software engineer who enjoys building the parts of applications people do not always see the APIs, backend services, databases, automations, and system logic that keep everything running.
 
-I'm a passionate **software engineer** with hands-on experience building  **React frontends** and **Ruby backends**. I enjoy working in collaborative environments and delivering clean, reliable solutions that make an impact.  
+I work mostly with **Ruby**, **Python**, **FastAPI**, **PostgreSQL**, and **REST APIs**, and I’m currently leaning deeper into the world of **AI engineering**, especially systems involving **RAG**, **LLMs**, **vector databases**, and production-ready AI workflows.
 
-My long-term goal is to become a **Machine Learning Engineer** or **AI Engineer**, merging AI, backend systems, and cloud solutions to create intelligent, production-ready applications.
-
----
-
-### What I’m Focused On
-- Expanding my skills in **Data Science**, **Machine Learning**, and **AI**
-- Building full-stack projects that combine **frontend polish** with **backend power**
-- Exploring **MLOps**, **cloud infrastructure**, and **AI deployment pipelines**
+Basically: I like making backend systems smarter, cleaner, and more useful.
 
 ---
 
-### Tech Stack
-**Languages:**  
-`Ruby` • `Python` • `JavaScript` • `TypeScript`
+### What I’m Focused On Right Now
 
-**Frameworks & Tools:**  
-`React` • `Ruby on Rails` • `FastAPI` • `Docker` • `PostgreSQL` 
+- Building stronger backend systems with **Ruby, Python, FastAPI, and PostgreSQL**
+- Designing APIs + MCPs that are clean, reliable, and easy to work with
+- Learning how to take AI from “cool demo” to **real production system**
+- Exploring **RAG, vector search, LLM integrations, and AI agents**
+- Getting better at **system design, data pipelines, and cloud deployment**
 
-**Currently Learning:**  
-`Machine Learning` • `Data Engineering` • `LLM Integrations`
+---
+
+### Tech I Like Working With
+
+**Backend & APIs**  
+`Ruby` • `Ruby on Rails` • `Python` • `FastAPI` • `REST APIs` • `Microservices`
+
+**Databases & Data Systems**  
+`PostgreSQL` • `SQL` • `Qdrant` • `Vector Databases` • `Data Pipelines`
+
+**AI & ML Tools**  
+`LangChain` • `SentenceTransformers` • `Together API` • `Ollama` • `RAG` • `LLM Integrations`
+
+**Frontend When Needed**  
+`React` • `TypeScript` • `JavaScript` • `HTML/CSS`
+
+**Cloud, DevOps & Automation**  
+`Docker` • `AWS` • `Azure` • `GitHub Actions` • `Bash`
+
+---
+
+### Where I’m Headed
+
+I’m growing as a backend-focused software engineer while building deeper experience in AI engineering.
+
+My goal is to build systems that combine:
+
+- Solid backend architecture
+- Clean APIs
+- Reliable databases
+- Smart AI features
+- Cloud-ready deployment workflows
+
+In other words, I want to help build AI products that actually work outside of a notebook.
 
 ---
 
 ### A Bit About Me
-- Recent Gradute **M.S. in Data Science**  
-- **United States Marine Corps Veteran**  
-- I like **working out, reading, and hiking** in my free time  
+
+- M.S. in Data Science & Analytics
+- B.B.A. in Computer Information Systems
+- United States Marine Corps Veteran
+- I enjoy working out, reading, hiking, and building things that teach me something new
 
 ---
 
 ### 📫 Let’s Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/manuel-guevara-reyes-652bb317b)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Mr-GR)
